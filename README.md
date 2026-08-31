@@ -208,11 +208,5 @@
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</p>
-
----
-
 > “让 Agent 像人一样思考，但比人更可靠。”  
 > —— Shayne 共勉 ✨
