@@ -1,5 +1,12 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=38&pause=1000&color=00D4FF&center=true&vCenter=true&width=1100&height=100&lines=Hi+%F0%9F%91%8B+EveryOne+Welcome+-%3E+Shayne" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=46&pause=1000&color=00D4FF&center=true&vCenter=true&width=1100&height=130&lines=%E2%9C%A8+Hi+%F0%9F%91%8B+EveryOne+Welcome+-%3E+Shayne+%E2%9C%A8" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <small>AI 生态架构师（Target Direction）· RAG & Multi-Agent 系统构建者<br/>
+  Building agents that understand the world — and let knowledge flow.</small>
+  <br/>
+  <a href="https://github.com/Syuuuuuuuuu">GitHub</a> · <a href="mailto:Syuuuuuuuuu2026@outlook.com">Email</a>
 </p>
 
 <!-- 访客计数器 + 标语徽章 -->
@@ -15,7 +22,14 @@
 
 ---
 
-### ✨ 个人简介
+<details open>
+<summary><b>🌐 中文 · Chinese</b></summary>
+
+<br/>
+
+### ✨ 关于我 / About
+
+你好，我是 Shayne。白天在工程一线打磨 RAG 与 Multi-Agent 系统，晚上把踩过的坑沉淀成文章与开源代码——从检索增强到多智能体协同，走通全链路落地的每一步。
 
 > **AI 生态架构师(Target direction) · RAG & Multi-Agent 系统构建者**  
 > 🔭 用代码编织智能体的未来 · 让每一次交互都有智能的回响  
@@ -37,20 +51,31 @@
 
 📌 热衷于将 LLM 与工程实践结合，关注从检索增强到多智能体协同的全链路落地，追求每一行代码都能为实际需求创造价值。
 
----
-
-### ⚡ 最近在做
-
-| 项目 | 说明 |
-|------|------|
-| 🚀 **Agent Loop 自进化架构** | 基于 DeepSeek Harness · Harness 底座 + 工具抽象解耦 |
-| 🔧 **MCP 多租户网关** | 统一 LLM Gateway 与企业级共享基座 |
-| 📖 **RAG 踩坑实录** | 《RAG 系统生产环境踩坑实录》系列文章整理中 |
-| 🎯 **MCP Server 套件** | 下一个 Milestone：开源首个企业级 MCP Server 套件 |
+I build agents that are trustworthy, evolvable, and explainable — code that creates real value.
 
 ---
 
-### 🚀 开源项目
+### ⚡ 正在做的项目 / Featured Work
+
+**🚀 Agent Loop 自进化架构**  
+基于 DeepSeek Harness · Harness 底座 + 工具抽象解耦  
+`DeepSeek Harness` `Agent Loop` `自进化` `工具调用`
+
+**🔧 MCP 多租户网关**  
+统一 LLM Gateway 与企业级共享基座  
+`MCP` `LLM Gateway` `多租户`
+
+**📖 RAG 踩坑实录**  
+《RAG 系统生产环境踩坑实录》系列文章整理中  
+`RAG` `混合检索` `Rerank` `写作`
+
+**🎯 MCP Server 套件**  
+下一个 Milestone：开源首个企业级 MCP Server 套件  
+`MCP` `StreamableHTTP` `企业级` `开源`
+
+---
+
+### 🚀 开源项目 / Open Source
 
 > （整理中，即将开源 ✨）
 
@@ -66,7 +91,7 @@
 
 ---
 
-### 📖 近期关注 & 复现
+### 📖 近期关注 & 复现 / Research & Reproduction
 
 #### 🤖 Agent & 多智能体系统
 
@@ -109,9 +134,18 @@
 
 > **复现计划**：上述项目将作为技术调研与复现的重点方向，后续会在GitHub上陆续放出复现笔记与实验代码。
 
+#### 🧪 复现计划 / Planned Experiments
+
+| 实验 | 方向 |
+|------|------|
+| **AgentFugue** | 多 Agent 集体推理 · 动态角色切换 |
+| **Orchard** | SWE / GUI / 个人助手统一训练管线 |
+| **BOAD** | 分层软件工程 Agent 发现方法 |
+| **Agentic GraphRAG** | LightRAG / nano-GraphRAG 轻量化实践 |
+
 ---
 
-### 📝 写作 & 教学
+### 📝 写作 & 教学 / Writing & Teaching
 
 #### 原创博客 & 专栏
 
@@ -130,7 +164,7 @@
 
 ---
 
-### 🧙 爱好 & 趣味
+### 🧙 爱好 & 趣味 / Hobbies & Fun
 
 > *💡 相信 **“Code is cheap, context is king”***  
 > *🎯 追求 **“Agent as a product”*** —— 让智能体真正解决现实问题  
@@ -143,7 +177,16 @@
 
 ---
 
-### 🔗 链接 & 联系
+### 💎 我在意的事 / What I Care About
+
+- **Agent as a product** - 让智能体真正解决现实问题，而不是堆砌能力清单。
+- **Code is cheap, context is king** - 检索、记忆与上下文设计，决定 Agent 的上限。
+- **Knowledge flows** - 让知识流动起来，用数据与智能体重塑生活与工作方式。
+- **Reliable & explainable** - 可信任、可进化、可解释，智能体才值得进入日常。
+
+---
+
+### 🔗 链接 & 联系 / Links & Contact
 
 | 平台 | 链接 |
 |------|------|
@@ -208,5 +251,265 @@
 
 ---
 
+### 🤝 一起参与 / Open Source
+
+可复现的 Issue、清晰的 PR，或者一颗 Star，都会帮助这些项目继续变好。
+
+- 💡 **提交 Issue** —— 可复现的描述是最有效的反馈
+- 🔧 **参与贡献** —— 开源项目上线后，欢迎从清晰的 PR 开始
+- 💬 **交流** —— RAG · Multi-Agent · Harness 工程，[邮件](mailto:Syuuuuuuuuu2026@outlook.com)常开
+
+---
+
 > “让 Agent 像人一样思考，但比人更可靠。”  
 > —— Shayne 共勉 ✨
+
+One person. One Agent Loop. Still building.
+
+</details>
+
+<details>
+<summary><b>🌐 English</b></summary>
+
+<br/>
+
+### ✨ About
+
+Hi, I'm Shayne. By day I build RAG and Multi-Agent systems on the engineering front line; by night I turn the pitfalls I've stepped into into articles and open-source code — covering the full journey from retrieval-augmented generation to multi-agent collaboration, every step of the way.
+
+> **AI Ecosystem Architect (Target direction) · RAG & Multi-Agent System Builder**  
+> 🔭 Weaving the future of intelligent agents with code · let every interaction echo with intelligence  
+> 📚 Vision: **Let agents understand the world, let knowledge flow, and reshape life and work with data and intelligent agents.**
+
+📍 **Base**: Shenzhen, China
+
+🔭 **Currently focused on**:
+- **RAG 2.0**: Hybrid retrieval + Rerank · Agentic GraphRAG · Multimodal RAG
+- **Multi-Agent collaboration**: Graph-based orchestration · Long-term memory · Verifiable execution
+- **Agent Loop**: Autonomous decision-making · Tool calling (Function Calling / MCP) · Self-evolution mechanisms
+- **Harness Engineering**: Model-agnostic Harness foundation design · Provider + Tool dual abstraction · Config-driven hot swapping · Deep hands-on with the DeepSeek Harness toolchain
+
+🌱 **Continuously exploring**:
+- Agentic Workflow · Memory mechanisms · Tool-calling paradigms · Lightweight deployment
+- Harness foundation architecture · Multi-model dynamic routing · Protocol alignment and standardization
+
+🎯 **Long-term vision**: Build a trustworthy, evolvable, and explainable agent ecosystem that brings AI into everyday scenarios.
+
+📌 Passionate about combining LLMs with engineering practice, covering the full chain from retrieval augmentation to multi-agent collaboration — making every line of code create real value.
+
+I build agents that are trustworthy, evolvable, and explainable — code that creates real value.
+
+---
+
+### ⚡ Featured Work
+
+**🚀 Agent Loop Self-Evolution Architecture**  
+Built on DeepSeek Harness · Harness foundation + decoupled tool abstraction  
+`DeepSeek Harness` `Agent Loop` `Self-Evolution` `Tool Calling`
+
+**🔧 MCP Multi-Tenant Gateway**  
+Unified LLM Gateway and enterprise-grade shared foundation  
+`MCP` `LLM Gateway` `Multi-Tenant`
+
+**📖 RAG Pitfall Chronicles**  
+《RAG 系统生产环境踩坑实录》(Production RAG Pitfall Notes) series in preparation  
+`RAG` `Hybrid Retrieval` `Rerank` `Writing`
+
+**🎯 MCP Server Suite**  
+Next milestone: open-sourcing the first enterprise-grade MCP Server suite  
+`MCP` `StreamableHTTP` `Enterprise` `Open Source`
+
+---
+
+### 🚀 Open Source
+
+> (In preparation, coming soon ✨)
+
+| Direction | Description |
+|------|------|
+| **Lightweight Agent Scaffold** | ReAct Loop + tool calling in `< 500` lines |
+| **MCP Server Template** | One-click start · StreamableHTTP protocol support |
+| **RAG Benchmark Tool** | Full-chain benchmark for hybrid retrieval + Rerank |
+| **Multi-Agent Orchestration Framework** | Based on LangGraph + long-term memory |
+| **Harness Foundation Template** | Provider + Tool dual abstraction · config-driven hot swapping |
+
+> Welcome to Star and follow for first-hand update notifications ✨
+
+---
+
+### 📖 Research & Reproduction
+
+#### 🤖 Agent & Multi-Agent Systems
+
+In 2026, the Agent field is moving from "single-agent reliability" to "multi-agent collaboration". The industry focus has shifted to the next-generation infrastructure built on the trinity of **"multi-agent graph orchestration + long-term memory + verifiable execution"**.
+
+- **AgentFugue**: Scales agents through "collective reasoning" — multiple agents form temporary reasoning chains when solving complex problems, dynamically switching roles, and significantly outperforming single agents on long-horizon tasks.
+- **Orchard**: Microsoft's open-source unified agent training framework, supporting three training pipelines at once — SWE (code generation), GUI (interface operation), and personal assistant — pushing agent infrastructure toward standardization.
+- **BOAD**: IBM Research's hierarchical method for discovering software-engineering agents, outperforming both single agents and human-designed multi-agent systems on SWE-bench-Verified.
+- **Fujitsu self-evolving multi-agent technology**: Released in May 2026, allowing AI agents to learn and auto-evolve safely by autonomously validating their operational experience.
+
+#### 📚 RAG Evolution
+
+At WAIC 2026 (the World Artificial Intelligence Conference), architects from Microsoft, Ant Group, and LangChain reached a consensus: **"traditional RAG based on pure vector retrieval has hit its ceiling"**. **Agentic GraphRAG** is emerging as the next-generation standard replacing traditional RAG.
+
+- **Three major trends**: Agentic RAG goes mainstream (RAG moves from a static pipeline to agent-driven dynamic workflows), the GraphRAG lightweight revolution (variants like LightRAG and nano-GraphRAG mature), and native multimodal integration (RAG expands from pure text to images, video, and code).
+- **Agentic RAG 3.0**: Reshaping RAG technology with the troika of "1M+ token long context + Multimodal GraphRAG + Agentic Retrieval".
+- **SPARKLE**: A structured plug-and-play agentic retrieval strategy, improving in-domain QA benchmarks by 9.17% and out-of-domain QA by 2.85% on average.
+- **Gemini API**: Google extends multimodal RAG with mixed image-text retrieval, achieving 90.1% cross-corpus accuracy on the FramesQA dataset.
+
+#### 💻 Vibe Coding → Agentic Engineering
+
+2026 marks a critical turning point in AI programming — from conversation-assisted **Vibe Coding** to autonomously executing **Agentic Engineering**.
+
+- **Concept evolution**: Andrej Karpathy proposed Vibe Coding in February 2025; in 2026, at Sequoia's AI Ascent conference, he formally proposed **Agentic Engineering** — letting AI agents complete the full "write code → run → check results → fix → continue" loop autonomously.
+- **Tooling ecosystem**: Three technical routes run in parallel — the IDE-native route (Cursor, Windsurf, GitHub Copilot), the CLI route (Claude Code with 51k+ GitHub Stars, Codex CLI), and the full-stack build route (Replit Agent, Bolt, Lovable).
+- **Measured data**: Claude Code achieves an 88% task completion rate and a 79% runnable-code rate in Vibe Coding scenarios; Cursor tops template code completion with a 94% runnable rate.
+
+#### 🧠 Models & Frameworks
+
+- **DeepSeek-V4**: Officially released and open-sourced on April 24, 2026. The Pro version has 1.6T parameters (49B active); Flash is a 284B MoE (13B active), both unified around **1M ultra-long context**. In agentic coding benchmarks, V4-Pro has reached the best level among open-source models and outperforms Sonnet 4.5 in internal usage. The stable V4-Pro was fully rolled out in August 2026.
+- **LangGraph 1.0**: GA in October 2025; versions 1.0.8 and 1.1 released in 2026, adding type-safe streaming, type-safe invoke, and Pydantic/dataclass coercion. Used in production by Uber, LinkedIn, and Klarna; LangGraph and AutoGen are the only two frameworks with full enterprise certification in 2026.
+- **Qwen 3.8-Max**: Alibaba's 2.4-trillion-parameter flagship model, released on August 3, 2026 — the first at that scale to be open-sourced.
+- **Anthropic Claude Science & MHS**: Launched in August 2026 — Claude Science (for researchers, with 3D protein structure rendering and drug discovery) and MHS (a Model Hardware Standard enabling AI to autonomously operate programmable research and manufacturing equipment).
+
+#### 🌍 Industry Macro
+
+- Stanford's 2026 AI Index Report: **the performance gap between Chinese and US AI models has narrowed to 2.7%**, and global enterprise AI investment has surged to $581.7 billion.
+- Global AI compute has grown 3.3× per year since 2022 — equivalent to 17.1 million H100 GPUs.
+- 78% of enterprises already run AI inference internally, with an average of 7 AI models per organization in production or active evaluation.
+
+> **Reproduction plan**: The projects above are the key directions for technical research and reproduction; reproduction notes and experimental code will be released on GitHub over time.
+
+#### 🧪 Planned Experiments
+
+| Experiment | Direction |
+|------|------|
+| **AgentFugue** | Multi-agent collective reasoning · dynamic role switching |
+| **Orchard** | Unified SWE / GUI / personal-assistant training pipelines |
+| **BOAD** | Hierarchical software-engineering agent discovery |
+| **Agentic GraphRAG** | LightRAG / nano-GraphRAG lightweight practice |
+
+---
+
+### 📝 Writing & Teaching
+
+#### Original Blog & Columns
+
+| Column | Status |
+|----------|------|
+| 📌 《RAG 系统生产环境踩坑实录》— Practical lessons from hybrid retrieval to Rerank | In preparation |
+| 📌 《从零搭建 MCP 多 Agent 集群》— Enterprise shared-foundation design in practice | Expected 2026.10 |
+| 📌 《Agent Loop 从原理到实现》— The core mechanisms of self-evolving agents, explained | In preparation |
+| 📌 《Harness 底座设计模式》— Model-agnostic agent infrastructure architecture | Planned |
+
+#### Talks & Sharing
+> (Empty for now)
+
+#### Video Courses
+> (Empty for now)
+
+---
+
+### 🧙 Hobbies & Fun
+
+> *💡 I believe **"Code is cheap, context is king"***  
+> *🎯 I pursue **"Agent as a product"** — let agents genuinely solve real problems*  
+
+| Category | Preferences |
+|------|------|
+| 🎧 Music | Electronic · Post-rock · Game soundtracks |
+| ☕ Daily | A cup of coffee, a screen of code, one bug to fix |
+| 🍜 Daily | Food · Photography · Exploring city corners |
+
+---
+
+### 💎 What I Care About
+
+- **Agent as a product** - Let agents genuinely solve real problems, not pile up capability checklists.
+- **Code is cheap, context is king** - Retrieval, memory, and context design decide an agent's ceiling.
+- **Knowledge flows** - Let knowledge flow, and reshape life and work with data and intelligent agents.
+- **Reliable & explainable** - Trustworthy, evolvable, and explainable — only then do agents deserve a place in daily life.
+
+---
+
+### 🔗 Links & Contact
+
+| Platform | Link |
+|------|------|
+| 📖 **Blog** | (TBD) |
+| 🐦 **Twitter / X** | (TBD) |
+| 💬 **WeChat Official Account** | (TBD) |
+| 📧 **Email** | `Syuuuuuuuuu2026@outlook.com` |
+| 💻 **GitHub** | [github.com/Syuuuuuuuuu](https://github.com/Syuuuuuuuuu) |
+
+---
+
+### 🛠 Tech Stack
+
+#### AI / Agent
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1f7e4a?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-6b4fbb?style=flat-square&logo=langchain&logoColor=white)
+![DeepAgents](https://img.shields.io/badge/DeepAgents-e34f26?style=flat-square&logo=deepmind&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-007acc?style=flat-square&logo=modelcontextprotocol&logoColor=white)
+![Function Calling](https://img.shields.io/badge/Function%20Calling-f7df1e?style=flat-square&logo=openai&logoColor=black)
+![RAG](https://img.shields.io/badge/RAG-ff6f00?style=flat-square&logo=elasticsearch&logoColor=white)
+![Agent Loop](https://img.shields.io/badge/Agent%20Loop-8b5cf6?style=flat-square&logo=circleci&logoColor=white)
+![Harness Engineering](https://img.shields.io/badge/Harness%20Engineering-d73a4a?style=flat-square&logo=harness&logoColor=white)
+![DeepSeek Harness](https://img.shields.io/badge/DeepSeek%20Harness-00d4ff?style=flat-square&logo=deepseek&logoColor=black)
+
+#### Backend & Data
+
+![FastAPI](https://img.shields.io/badge/FastAPI-059669?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ed?style=flat-square&logo=docker&logoColor=white)
+![Milvus](https://img.shields.io/badge/Milvus-0033a0?style=flat-square&logo=milvus&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![pgvector](https://img.shields.io/badge/pgvector-4169e1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-dc382d?style=flat-square&logo=redis&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-4d77cf?style=flat-square&logo=numpy&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-f05032?style=flat-square&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-f14e32?style=flat-square&logo=git&logoColor=white)
+
+#### Models & Fine-tuning
+
+![Transformer](https://img.shields.io/badge/Transformer-f7df1e?style=flat-square&logo=transformer&logoColor=black)
+![SFT](https://img.shields.io/badge/SFT-6a1b9a?style=flat-square&logo=pytorch&logoColor=white)
+![DPO](https://img.shields.io/badge/DPO-00897b?style=flat-square&logo=pytorch&logoColor=white)
+![LoRA](https://img.shields.io/badge/LoRA-c62828?style=flat-square&logo=pytorch&logoColor=white)
+![QLoRA](https://img.shields.io/badge/QLoRA-e65100?style=flat-square&logo=pytorch&logoColor=white)
+![LLaMA-Factory](https://img.shields.io/badge/LLaMA--Factory-1565c0?style=flat-square&logo=huggingface&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-ff6f00?style=flat-square&logo=huggingface&logoColor=white)
+![ModelScope](https://img.shields.io/badge/ModelScope-0078d4?style=flat-square&logo=alibabacloud&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-4caf50?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-ee4c2c?style=flat-square&logo=pytorch&logoColor=white)
+
+#### AI Dev Tools
+
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat-square&logo=cursor&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-5a29c4?style=flat-square&logo=anthropic&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-007acc?style=flat-square&logo=openai&logoColor=white)
+![LangSmith](https://img.shields.io/badge/LangSmith-f09b3e?style=flat-square&logo=langchain&logoColor=white)
+![structlog](https://img.shields.io/badge/structlog-3d8c40?style=flat-square&logo=python&logoColor=white)
+![Full-Chain Tracing](https://img.shields.io/badge/Full--Chain%20Tracing-ff6f00?style=flat-square&logo=datadog&logoColor=white)
+![Visual Evaluation](https://img.shields.io/badge/Visual%20Evaluation-b33c1c?style=flat-square&logo=grafana&logoColor=white)
+
+---
+
+### 🤝 Open Source
+
+Reproducible issues, clean PRs, or a single Star — each one helps these projects keep getting better.
+
+- 💡 **Submit an Issue** — a reproducible description is the most effective feedback
+- 🔧 **Contribute** — once the open-source projects launch, clean PRs are always welcome
+- 💬 **Connect** — RAG · Multi-Agent · Harness engineering, [email](mailto:Syuuuuuuuuu2026@outlook.com) is always open
+
+---
+
+> "Let agents think like humans — but be more reliable than humans."  
+> —— Shayne, still building with you ✨
+
+One person. One Agent Loop. Still building.
+
+</details>
