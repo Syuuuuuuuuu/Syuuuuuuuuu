@@ -55,22 +55,22 @@ I build agents that are trustworthy, evolvable, and explainable — code that cr
 
 ---
 
-### ⚡ 正在做的项目 / Featured Work
+### ⚡ 已做过的项目 / Projects Done
 
 **🚀 Agent Loop 自进化架构**  
-基于 DeepSeek Harness · Harness 底座 + 工具抽象解耦  
+做过：基于 DeepSeek Harness 完成 Harness 底座与工具抽象解耦  
 `DeepSeek Harness` `Agent Loop` `自进化` `工具调用`
 
 **🔧 MCP 多租户网关**  
-统一 LLM Gateway 与企业级共享基座  
+做过：统一 LLM Gateway 与企业级共享基座的搭建  
 `MCP` `LLM Gateway` `多租户`
 
 **📖 RAG 踩坑实录**  
-《RAG 系统生产环境踩坑实录》系列文章整理中  
+做过：沉淀《RAG 系统生产环境踩坑实录》系列实战经验  
 `RAG` `混合检索` `Rerank` `写作`
 
 **🎯 MCP Server 套件**  
-下一个 Milestone：开源首个企业级 MCP Server 套件  
+做过：企业级 MCP Server 套件的设计与开发  
 `MCP` `StreamableHTTP` `企业级` `开源`
 
 ---
@@ -301,22 +301,22 @@ I build agents that are trustworthy, evolvable, and explainable — code that cr
 
 ---
 
-### ⚡ Featured Work
+### ⚡ Projects Done
 
 **🚀 Agent Loop Self-Evolution Architecture**  
-Built on DeepSeek Harness · Harness foundation + decoupled tool abstraction  
+Done: completed the Harness foundation + decoupled tool abstraction on DeepSeek Harness  
 `DeepSeek Harness` `Agent Loop` `Self-Evolution` `Tool Calling`
 
 **🔧 MCP Multi-Tenant Gateway**  
-Unified LLM Gateway and enterprise-grade shared foundation  
+Done: built a unified LLM Gateway and enterprise-grade shared foundation  
 `MCP` `LLM Gateway` `Multi-Tenant`
 
 **📖 RAG Pitfall Chronicles**  
-《RAG 系统生产环境踩坑实录》(Production RAG Pitfall Notes) series in preparation  
+Done: distilled the 《RAG 系统生产环境踩坑实录》series of real-world lessons  
 `RAG` `Hybrid Retrieval` `Rerank` `Writing`
 
 **🎯 MCP Server Suite**  
-Next milestone: open-sourcing the first enterprise-grade MCP Server suite  
+Done: designed and developed an enterprise-grade MCP Server suite  
 `MCP` `StreamableHTTP` `Enterprise` `Open Source`
 
 ---
