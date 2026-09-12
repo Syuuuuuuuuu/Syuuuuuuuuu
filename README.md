@@ -1,3 +1,15 @@
+<!-- ============================ BANNER ============================ -->
+<p align="center">
+  <a href="https://github.com/Syuuuuuuuuu">
+    <img
+      src="shayne-github-banner.png"
+      alt="SHAYNE · Full-Stack AI Engineer · RAG & Multi-Agent Systems"
+      title="SHAYNE — Full-Stack AI Engineer"
+      width="100%"
+    />
+  </a>
+</p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=46&pause=1000&color=00D4FF&center=true&vCenter=true&width=1100&height=130&lines=%E2%9C%A8+Hi+%F0%9F%91%8B+EveryOne+Welcome+-%3E+Shayne+%E2%9C%A8" alt="Typing SVG" />
 </p>
@@ -9,9 +21,11 @@
   <a href="https://github.com/Syuuuuuuuuu">GitHub</a> · <a href="mailto:Syuuuuuuuuu2026@outlook.com">Email</a>
 </p>
 
-<!-- 访客计数器 + 标语徽章 -->
+<!-- 访客计数器 + 真实数据 + 标语徽章 -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Syuuuuuuuuu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  &nbsp;&nbsp;
+  <img src="https://img.shields.io/github/followers/Syuuuuuuuuu?style=flat&label=Followers&color=0e75b6&logo=github&logoColor=white" alt="GitHub Followers" />
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Agent%20Builder-%23FF6B6B?style=flat&logo=ai&logoColor=white" alt="Agent Builder" />
   &nbsp;&nbsp;
